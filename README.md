@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 📚 BSc Computer Science
 - 🌱 I’m currently learning Databases, Natural Language Processing (NLP), Arduino and IoT, General AI concepts
 - 🔭 I’m currently working on a Chrome Plugin
 
