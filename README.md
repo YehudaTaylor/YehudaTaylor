@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning Databases, Natural Language Processing (NLP), Arduino and IoT, General AI concepts
 - 🔭 I’m currently working on a Chrome Plugin
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,bash,java,kotlin,js,linux,mysql,git,github,vscode,html,css,tailwind,p5js,figma,wordpress" />
+  </a>
+</p>
+
 <!--
 **YehudaTaylor/YehudaTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
