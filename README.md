@@ -13,7 +13,7 @@
 
 
 ## Blog/Portfolio
-- 📒 [Blog](https:yehudataylor.com) 🚧
+- 📒 [Blog](https:yehudataylor.com) under construction 🚧
 
 ## Contact Me
 - 📧 Email: yehudataylor123@gmail.com
