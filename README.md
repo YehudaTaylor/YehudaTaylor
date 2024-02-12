@@ -13,10 +13,10 @@
 
 
 ## Blog/Portfolio
-- 📒 [Blog](https://yehudataylor.github.io/) under construction 🚧
+- 📒 [Blog](https://yehudataylor.com)
 
 ## Contact Me
-- 📧 Email: yehudataylor123@gmail.com
+- 📧 Email: contact@yehudataylor.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yehuda-taylor/)
 
 ## Open Source Contributions
