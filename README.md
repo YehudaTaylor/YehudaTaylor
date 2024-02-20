@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 📚 BSc Computer Science at the University of London
-- 🌱 I’m currently learning Databases, Natural Language Processing (NLP), Arduino and IoT, General AI concepts
+- 🌱 I’m currently learning
+  - Databases and data techniques
+  - Natural Language Processing (NLP)
+  - Arduino and IoT
+  - General AI concepts
 - 🔭 I’m currently working on a Chrome Plugin
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yehuda-taylor/)
 
@@ -13,7 +17,7 @@
 
 
 ## Blog/Portfolio
-- 📒 [Blog](https://yehudataylor.com)
+- 📒 [Portfolio and Blog](https://yehudataylor.com)
 
 ## Contact Me
 - 📧 Email: contact@yehudataylor.com
