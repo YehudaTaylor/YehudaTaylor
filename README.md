@@ -6,7 +6,6 @@
   - Arduino and IoT
   - General AI concepts
 - 🔭 I’m currently working on a Chrome Plugin
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yehuda-taylor/)
 
 ## Education
 - 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/) (final year)
