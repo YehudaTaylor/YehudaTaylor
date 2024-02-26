@@ -16,7 +16,7 @@
 
 
 ## Blog/Portfolio
-- 📒 [Portfolio and Blog](https://yehudataylor.com)
+- 📒 [yehudataylor.com](https://yehudataylor.com)
 
 ## Contact Me
 - 📧 Email: contact@yehudataylor.com
