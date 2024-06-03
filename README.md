@@ -5,7 +5,7 @@
   - Natural Language Processing (NLP)
   - Arduino and IoT
   - General AI concepts
-- 🔭 I’m currently working on a Chrome Plugin
+- 🔭 I’m currently working on my final year project
 
 ## Education
 - 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/) (final year)
