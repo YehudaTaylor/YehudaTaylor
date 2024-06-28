@@ -1,10 +1,8 @@
 ### Hi there 👋
 - 📚 BSc Computer Science at the University of London
 - 🌱 I’m currently learning
-  - Databases and data techniques
-  - Natural Language Processing (NLP)
-  - Arduino and IoT
   - General AI concepts
+  - Reinforcement learning
 - 🔭 I’m currently working on my final year project
 
 ## Education
