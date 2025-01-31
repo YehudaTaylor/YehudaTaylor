@@ -1,12 +1,8 @@
 ### Hi there 👋
 - 📚 BSc Computer Science at the University of London
-- 🌱 I’m currently learning
-  - General AI concepts
-  - Reinforcement learning
-- 🔭 I’m currently working on my final year project
 
 ## Education
-- 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/) (final year)
+- 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/)
 
 ## Work Experience
 - [Trackmatic Solutions](https://trackmatic.co.za/) - Junior Software Developer
