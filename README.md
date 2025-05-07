@@ -5,7 +5,7 @@
 - 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/)
 
 ## Work Experience
-- [Trackmatic Solutions](https://trackmatic.co.za/) - Junior Software Developer
+- [Trackmatic Solutions](https://trackmatic.co.za/) - Software Developer
 - [Trackmatic Solutions](https://trackmatic.co.za/) - Software Developer Intern
 
 
