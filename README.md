@@ -3,6 +3,7 @@
 
 ## Education
 - 🎓 BSc Computer Science from [University of London](https://www.london.ac.uk/)
+- Currently learning NestJS, React and Typescript
 
 ## Work Experience
 - [Trackmatic Solutions](https://trackmatic.co.za/) - Software Developer
