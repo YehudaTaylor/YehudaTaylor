@@ -7,8 +7,6 @@
 
 ## Work Experience
 - [Trackmatic Solutions](https://trackmatic.co.za/) - Software Developer
-- [Trackmatic Solutions](https://trackmatic.co.za/) - Software Developer Intern
-
 
 ## Blog/Portfolio
 - 📒 [yehudataylor.com](https://yehudataylor.com)
